@@ -1,0 +1,35 @@
+* { 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    background-color: #271A45;
+    align-items: center;
+    text-align: center;
+}
+
+body Strong {
+    font-family: 'Rubik', sans-serif;
+    color: #FFFFFF;
+    font-weight: 20;
+}
+
+#app {
+    padding: 5.0rem 0 0 30.0rem;
+    
+}
+
+.top {
+    background-color: #FFFFFF;
+    width: 25rem;
+    height: 15rem;
+}
+
+.info-voo {
+    display: flex;
+    justify-content: space-between;
+    
+}
